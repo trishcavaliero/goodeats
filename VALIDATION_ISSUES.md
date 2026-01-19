@@ -9,4 +9,6 @@ Remaining items to fill
 - SF001 (Salmon / Shrimp Bowl): Clarify whether both proteins are included per serving or if one is an option.
 - YG002 (Biscoff): `Carbs:` currently set to `carbs vary` — provide carbs or range to standardize.
 
-If you'd like, I can run a check to list any recipe files missing `Macros`, `Instructions`, or `Tags` and add placeholders.
+Next steps I can take:
+- Run a validation check to list any recipe files missing `Macros per serving`, `Instructions`, or `Tags` and add placeholders for missing Instructions where sensible.
+- Update tag usage across recipes to ensure format `macro/cut | meal/timing | ingredient/core | prep/storage` and 1–2 tags per type.

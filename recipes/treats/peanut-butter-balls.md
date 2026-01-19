@@ -1,7 +1,8 @@
-Category: Treats / Desserts
-Tags: treat | snack | nuts
+# Peanut Butter Balls
 
-Name: Peanut Butter Balls
+Category: Treats / Desserts
+
+Tags: treat | snack | nuts
 
 Ingredients:
 - PB Fit powdered peanut butter (~1–1.5 cups total)
@@ -11,8 +12,12 @@ Ingredients:
 - Coconut oil (~7 g)
 - Final batch: ~21 balls (pre-batch reduced by ~20% as some stuck to bowl)
 
-Macros: Protein: 5.8 g | Carbs: 3.8 g | Fat: 1.1 g | Calories: 53 kcal
+Macros per serving:
+Protein: 5.8 g | Carbs: 3.8 g | Fat: 1.1 g | Calories: 53 kcal
 
 Instructions:
+1. Mix, form balls, chill/freezer if desired.
 
-Cut Tier: Flexible
+Notes:
+- Batch yield approximate; confirm if you want per-ball macros updated.
+

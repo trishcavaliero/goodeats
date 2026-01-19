@@ -1,7 +1,8 @@
-Category: Core
-Tags: high-protein, balanced | meal-prep | seafood
+# Salmon / Shrimp Bowl
 
-Name: Salmon / Shrimp Bowl
+Category: Core
+
+Tags: high-protein, balanced | meal-prep | seafood
 
 Ingredients:
 - Salmon patty (~5 oz raw)
@@ -14,8 +15,12 @@ Ingredients:
 - Green beans / other veg (~½ cup or more)
 - Non-fat plain Greek yogurt (~40 g, optional for sauce)
 
-Macros: Protein: 54 g | Carbs: 44 g | Fat: 16.5 g | Calories: 623 kcal
+Macros per serving:
+Protein: 54 g | Carbs: 44 g | Fat: 16.5 g | Calories: 623 kcal
 
 Instructions:
+1. Assemble bowl with preferred protein(s) and toppings.
 
-Cut Tier: Flexible
+Notes:
+- Clarify whether both salmon and shrimp are part of a single serving or options.
+

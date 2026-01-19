@@ -10,7 +10,7 @@ Ingredients:
 - Optional: 0 cal brown sugar + vanilla extract
 
 Macros per serving:
-Protein: 40–45 g | Carbs: carbs vary | Fat: 5–10 g | Calories: 325–350 kcal
+Protein: 40–45 g | Carbs: [ADD g] | Fat: 5–10 g | Calories: 325–350 kcal
 
 Instructions:
 1. Layer yogurt with crumbled Biscoff cookies.

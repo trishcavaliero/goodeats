@@ -5,10 +5,14 @@ Overview
 
 Remaining items to fill
 
-- PR001 (Ground Beef Portion): Calories value missing — provide kcal per 5 oz cooked portion if available.
-- SF001 (Salmon / Shrimp Bowl): Clarify whether both proteins are included per serving or if one is an option.
-- YG002 (Biscoff): `Carbs:` currently set to `carbs vary` — provide carbs or range to standardize.
+- PR001 (Ground Beef Portion): Calories value missing — placeholder added: `Calories: [ADD kcal]` — please provide kcal per 5 oz cooked portion when convenient.
+- SF001 (Salmon / Shrimp Bowl): Clarify whether both proteins are included per serving or if one is an option (note remains in recipe `Notes:`).
+- YG002 (Biscoff): `Carbs:` had been `carbs vary` — placeholder added `Carbs: [ADD g]` to standardize; please provide a value or range.
+
+Validation summary:
+- All recipe files include `Category`, `Tags`, `Ingredients`, `Macros per serving` and `Instructions` fields now.
+- Placeholders were added where numeric values were missing (see above).
 
 Next steps I can take:
-- Run a validation check to list any recipe files missing `Macros per serving`, `Instructions`, or `Tags` and add placeholders for missing Instructions where sensible.
-- Update tag usage across recipes to ensure format `macro/cut | meal/timing | ingredient/core | prep/storage` and 1–2 tags per type.
+- If you provide missing numeric values, I will update recipes and remove placeholders.
+- I can run an enforcement check for tag group formatting and limit tags per category if you'd like.

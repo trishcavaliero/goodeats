@@ -8,7 +8,7 @@ Ingredients:
 - 2 lbs raw ground beef → cooked, portioned into ~5 oz servings
 
 Macros per serving:
-Protein: 35 g | Carbs: 0 g | Fat: 9–10 g | Calories:
+Protein: 35 g | Carbs: 0 g | Fat: 9–10 g | Calories: [ADD kcal]
 
 Instructions:
 1. Cook and portion as desired.

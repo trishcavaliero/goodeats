@@ -5,8 +5,8 @@ Overview
 
 Remaining items to fill
 
-- PR001 (Ground Beef Portion): Calories value missing — placeholder added: `Calories: [ADD kcal]` — please provide kcal per 5 oz cooked portion when convenient.
-- SF001 (Salmon / Shrimp Bowl): Clarify whether both proteins are included per serving or if one is an option (note remains in recipe `Notes:`).
+- PR001 (Ground Beef Portion): **Resolved** — values updated from user input: 5 oz cooked ≈ 360 kcal; Protein ≈ 34 g; Fat ≈ 24 g; Carbs ≈ 0 g.
+- SF001 (Salmon / Shrimp Bowl): **Resolved** — Protein updated to 43 g and notes updated to indicate both salmon and shrimp are included per serving.
 - YG002 (Biscoff): `Carbs:` had been `carbs vary` — placeholder added `Carbs: [ADD g]` to standardize; please provide a value or range.
 
 Validation summary:

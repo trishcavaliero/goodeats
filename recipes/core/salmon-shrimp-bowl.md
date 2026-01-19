@@ -16,11 +16,11 @@ Ingredients:
 - Non-fat plain Greek yogurt (~40 g, optional for sauce)
 
 Macros per serving:
-Protein: 54 g | Carbs: 44 g | Fat: 16.5 g | Calories: 623 kcal
+Protein: 43 g | Carbs: 44 g | Fat: 16.5 g | Calories: 623 kcal
 
 Instructions:
-1. Assemble bowl with preferred protein(s) and toppings.
+1. Assemble bowl with both salmon and shrimp per serving and preferred toppings.
 
 Notes:
-- Clarify whether both salmon and shrimp are part of a single serving or options.
+- Includes both salmon and shrimp per serving.
 

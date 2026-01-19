@@ -1,8 +1,13 @@
-# Sweet Treats Index
+# Treats / Desserts Index
+
+Contains: ST001 — Peanut Butter Balls
 
 This category intentionally references canonical recipe entries kept in their primary indexes to avoid duplication.
 
 ### ST001 — Peanut Butter Balls
+
+Category: Treats / Desserts
+Tags: treat | snack | nuts
 
 Ingredients:
 - PB Fit powdered peanut butter (~1–1.5 cups total)

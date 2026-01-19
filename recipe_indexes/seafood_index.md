@@ -1,6 +1,11 @@
-# Seafood Index
+# Core Index
+
+Contains: SF001 — Salmon / Shrimp Bowl
 
 ### SF001 — Salmon / Shrimp Bowl
+
+Category: Core
+Tags: high-protein, balanced | meal-prep | seafood
 
 Ingredients:
 - Salmon patty (~5 oz raw)

@@ -1,6 +1,11 @@
 # Breakfast Index
 
+Contains: BR001 — Omelet + Bacon + Avocado + Pineapple
+
 ### BR001 — Omelet + Bacon + Avocado + Pineapple
+
+Category: Breakfast
+Tags: high-protein, balanced | quick | egg, pork
 
 Ingredients:
 - 3 large eggs (~150 g)

@@ -47,10 +47,10 @@ Per-file issues and fields for you to fill
 - Remaining items:
   - `YG002`: macros set to Protein: 40–45 g | Carbs: carbs vary | Fat: 5–10 g | Calories: 325–350 kcal — please provide concrete carbs values if desired.
   - `YG003`: raspberry preserves weight per serving (~20 g) recorded; confirm if you want a different standard.
-- Tags applied:
-  - `YG001`: `#yogurt #post-gym #high-protein`
-  - `YG002`: `#yogurt #dessert #treat`
-  - `YG003`: `#yogurt #cheesecake #berry`
+- Tags applied (migrated to unified format):
+  - `YG001`: `high-protein | post-workout | dairy, plant-protein`
+  - `YG002`: `treat | snack | dairy`
+  - `YG003`: `treat | snack | dairy`
 
 Global style decisions applied
 - Recipe ID format: Adopted `^[A-Z]{2}\d{3}$` as canonical and preserved existing IDs.

@@ -1,0 +1,4 @@
+Recipe validation report
+Files checked: 7
+
+No issues found.

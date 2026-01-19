@@ -7,7 +7,7 @@ Remaining items to fill
 
 - PR001 (Ground Beef Portion): **Resolved** — values updated from user input: 5 oz cooked ≈ 360 kcal; Protein ≈ 34 g; Fat ≈ 24 g; Carbs ≈ 0 g.
 - SF001 (Salmon / Shrimp Bowl): **Resolved** — Protein updated to 43 g and notes updated to indicate both salmon and shrimp are included per serving.
-- YG002 (Biscoff): `Carbs:` had been `carbs vary` — placeholder added `Carbs: [ADD g]` to standardize; please provide a value or range.
+- YG002 (Biscoff): **Resolved** — `Carbs` set to 16 g based on provided cookie nutrition (2 cookies ≈ 16 g carbs, 3 g fat, 2 g protein, 160 kcal).
 
 Validation summary:
 - All recipe files include `Category`, `Tags`, `Ingredients`, `Macros per serving` and `Instructions` fields now.

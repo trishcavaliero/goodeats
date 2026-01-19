@@ -1,6 +1,6 @@
 # Breakfast Index
 
-Contains: BR001 — Omelet + Bacon + Avocado + Pineapple
+- Omelet + Bacon + Avocado + Pineapple
 
 ### BR001 — Omelet + Bacon + Avocado + Pineapple
 

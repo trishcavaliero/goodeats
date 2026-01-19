@@ -1,6 +1,4 @@
-# Snacks & Mini Meals / Treats Index
-
-Contains: YG001 — Berry Protein Bowl; YG002 — Biscoff Greek Yogurt Dessert; YG003 — Raspberry Jam Cheesecake Yogurt
+# Yogurt Index
 
 ### YG001 — Berry Protein Bowl
 

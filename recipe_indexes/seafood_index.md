@@ -1,6 +1,6 @@
 # Core Index
 
-Contains: SF001 — Salmon / Shrimp Bowl
+- Salmon / Shrimp Bowl
 
 ### SF001 — Salmon / Shrimp Bowl
 

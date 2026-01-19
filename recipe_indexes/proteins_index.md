@@ -1,6 +1,6 @@
 # Staple Proteins Index
 
-Contains: PR001 — Ground Beef Portion (5 oz cooked)
+- Ground Beef Portion (5 oz cooked)
 
 ### PR001 — Ground Beef Portion (5 oz cooked)
 

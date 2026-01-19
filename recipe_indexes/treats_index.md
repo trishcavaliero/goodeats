@@ -1,6 +1,8 @@
 # Treats / Desserts Index
 
-Contains: ST001 — Peanut Butter Balls
+- Peanut Butter Balls
+- Biscoff Greek Yogurt Dessert
+- Raspberry Jam Cheesecake Yogurt
 
 This category intentionally references canonical recipe entries kept in their primary indexes to avoid duplication.
 

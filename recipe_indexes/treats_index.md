@@ -3,7 +3,8 @@
 This category intentionally references canonical recipe entries kept in their primary indexes to avoid duplication.
 
 ### ST001 — Peanut Butter Balls
-*~53 kcal per ball | 5.8 g protein | 3.8 g carbs | 1.1 g fat (approx.)*
+
+Ingredients:
 - PB Fit powdered peanut butter (~1–1.5 cups total)
 - Unsweetened apple sauce (~200 g)
 - Unsweetened dark chocolate squares (~8–12 squares, optional)
@@ -11,6 +12,10 @@ This category intentionally references canonical recipe entries kept in their pr
 - Coconut oil (~7 g)
 - Final batch: ~21 balls (pre-batch reduced by ~20% as some stuck to bowl)
 
-Source: moved from yogurt index; canonical ID `ST001`
+Macros: Protein: 5.8 g | Carbs: 3.8 g | Fat: 1.1 g | Calories: 53 kcal
 
-If you'd prefer `ST001` to be the canonical ID instead, say so and I'll make the swap.
+Instructions:
+
+Tags: #treat #snack #protein-packed
+
+Cut Tier: Flexible

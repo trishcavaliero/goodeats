@@ -7,5 +7,6 @@ This catalog links the per-category recipe indexes (keeps recipes separated by c
 - Seafood: [recipe_indexes/seafood_index.md](recipe_indexes/seafood_index.md)
 - Solo Proteins: [recipe_indexes/proteins_index.md](recipe_indexes/proteins_index.md)
 - Sweet Treats: [recipe_indexes/treats_index.md](recipe_indexes/treats_index.md)
+- Schema: [RECIPE_SCHEMA.md](RECIPE_SCHEMA.md)
 
 Guidance: Add new recipes to the appropriate category index first; use the assigned ID (e.g., `BR001`, `YG001`) when referencing from daily logs.

@@ -6,4 +6,3 @@
 - Fully interchangeable for lunches/dinners
 - Can be used in bowls, salads, wraps, or reheated dinners
 
-Source: solo_protein_portions.md

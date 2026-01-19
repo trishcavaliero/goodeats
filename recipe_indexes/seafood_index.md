@@ -12,4 +12,3 @@
 - Green beans / other veg (~½ cup or more)
 - Non-fat plain Greek yogurt (~40 g, optional for sauce)
 
-Source: seafood_bowls.md

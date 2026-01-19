@@ -33,6 +33,41 @@ Each entry MUST include:
 - Notes (optional: tags, flexibility, protein anchor)
 
 Format example:
+# Agent Handoff — Nutrition Tracking & Documentation System
+
+## Purpose
+This document defines the **required structure and rules** for nutrition tracking during a fat-loss (cut) phase. Any agent continuing work on this project must follow this structure to ensure consistency, low cognitive load, and long-term reusability of data.
+
+The system prioritizes:
+- protein-first tracking
+- minimal daily friction
+- reusable recipes
+- clear historical reference
+
+---
+
+## Core Principle (Non‑Negotiable)
+
+> **Foods/recipes are defined once, indexed, and reused. Daily logs reference the index.**
+
+Do **NOT** recreate ingredient lists or macros inside daily logs.
+Do **NOT** organize primarily by day-made or chronological cooking order.
+
+---
+
+## Canonical Structure
+
+### 1. Recipe / Food Index (Static)
+
+**Purpose:** Single source of truth for all repeat foods.
+
+Each entry MUST include:
+- Name
+- Ingredients with measurements
+- Macros per serving (subtitle-style)
+- Notes (optional: tags, flexibility, protein anchor)
+
+Format example:
 ```md
 ### Berry Protein Yogurt Bowl
 *~325 kcal | 50 g protein | 21 g carbs | 5 g fat*

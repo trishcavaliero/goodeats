@@ -8,4 +8,3 @@
 - Pineapple (~90 g)
 - Optional: splash of milk/water for omelet
 
-Source: eggs_breakfast.md

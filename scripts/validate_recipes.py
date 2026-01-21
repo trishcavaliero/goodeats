@@ -15,6 +15,34 @@ REPORT = ROOT / "validation-report.txt"
 macro_re = re.compile(r"Protein:\s*[^|]+\|\s*Carbs:\s*[^|]+\|\s*Fat:\s*[^|]+\|\s*Calories:\s*[^\n]+", re.I)
 placeholder_re = re.compile(r"\[ADD")
 
+# Fixer helpers
+import argparse
+
+def normalize_tag(t: str) -> str:
+    return t.lower().strip()
+
+def parse_tags_line(line: str):
+    # returns list of groups, each group is list of tags
+    groups = [g.strip() for g in line.split('|')]
+    result = []
+    for g in groups:
+        if not g:
+            result.append([])
+            continue
+        tags = [normalize_tag(t) for t in re.split(r"[,\s]+", g) if t.strip()]
+        result.append(tags)
+    return result
+
+def format_tags_line(groups):
+    # enforce up to 2 tags per group
+    parts = []
+    for tags in groups:
+        if not tags:
+            parts.append("")
+            continue
+        parts.append(', '.join(tags[:2]))
+    return ' | '.join(parts)
+
 
 def load_allowed_tags():
     if not TAGS_FILE.exists():
@@ -113,15 +141,58 @@ for p in RECIPE_DIR.rglob("*.md"):
     if placeholder_re.search(text):
         issues.append((str(name), "Contains placeholder token '[ADD'"))
 
-# Write report
-with REPORT.open("w") as fh:
-    fh.write(f"Recipe validation report\nFiles checked: {files_checked}\n\n")
-    if not issues:
-        fh.write("No issues found.\n")
-        print("No issues found.")
-        exit(0)
-    fh.write("Issues found:\n")
-    for f, msg in issues:
-        fh.write(f"- {f}: {msg}\n")
-    print(f"Validation completed: {len(issues)} issues found. See {REPORT}")
-    exit(1)
+# If fixer mode enabled, attempt auto-fix of tags line
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Validate recipes. Use --fix to auto-fix simple tag formatting and write files.')
+    parser.add_argument('--fix', action='store_true', help='Automatically fix simple formatting issues (Tags line formatting)')
+    parser.add_argument('--create-pr', action='store_true', help='After --fix, create a branch with fixes and open a PR (requires gh CLI)')
+    args = parser.parse_args()
+
+    if args.fix:
+        fixed_files = []
+        for p in RECIPE_DIR.rglob("*.md"):
+            text = p.read_text()
+            m = re.search(r"^Tags:\s*(.+)$", text, re.I | re.M)
+            if not m:
+                continue
+            tags_line = m.group(1).strip()
+            groups = parse_tags_line(tags_line)
+            new_line = format_tags_line(groups)
+            if new_line != tags_line:
+                new_text = re.sub(r"^Tags:\s*.+$", f"Tags: {new_line}", text, flags=re.I | re.M)
+                p.write_text(new_text)
+                fixed_files.append(str(p.relative_to(ROOT)))
+        if fixed_files:
+            print(f"Auto-fixed Tags in {len(fixed_files)} files:")
+            for f in fixed_files:
+                print(f" - {f}")
+            # create git branch and commit changes
+            import subprocess, datetime
+            branch = f"fix/format-tags-{datetime.datetime.utcnow().strftime('%Y%m%d%H%M%S')}"
+            subprocess.check_call(["git", "checkout", "-b", branch])
+            subprocess.check_call(["git", "add"] + fixed_files)
+            subprocess.check_call(["git", "commit", "-m", "chore: auto-format Tags fields across recipes"]) 
+            subprocess.check_call(["git", "push", "-u", "origin", branch])
+            print(f"Pushed branch {branch} with fixes.")
+            if args.create_pr:
+                # try to create PR using gh if available
+                try:
+                    subprocess.check_call(["gh", "pr", "create", "--fill"])
+                    print("Created PR via gh CLI.")
+                except Exception:
+                    print("Could not create PR via gh CLI; please open a PR for the branch manually if desired.")
+        else:
+            print("No automatic fixes necessary.")
+
+    # Write report
+    with REPORT.open("w") as fh:
+        fh.write(f"Recipe validation report\nFiles checked: {files_checked}\n\n")
+        if not issues:
+            fh.write("No issues found.\n")
+            print("No issues found.")
+            exit(0)
+        fh.write("Issues found:\n")
+        for f, msg in issues:
+            fh.write(f"- {f}: {msg}\n")
+        print(f"Validation completed: {len(issues)} issues found. See {REPORT}")
+        exit(1)

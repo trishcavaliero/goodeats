@@ -1,4 +1,4 @@
 Recipe validation report
-Files checked: 7
+Files checked: 10
 
 No issues found.

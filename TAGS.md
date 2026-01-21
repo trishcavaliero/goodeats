@@ -31,6 +31,15 @@ Ingredient / Core Component
 - legumes
 - sauces
 - condiments
+- chocolate
+- coffee
+- oats
+- biscoff
+
+Other helpful qualifiers
+- chocolate-free
+- sweet-treat
+- dessert-inspired
 
 Prep / Storage
 - frozen-friendly

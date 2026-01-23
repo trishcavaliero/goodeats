@@ -35,18 +35,66 @@
 ---
 
 ## 2026-01-20 (Tuesday) ✅
-- **Snack / Dessert**: Tiramisu (regular) — 125 g serving (dessert-style)
-- **Snack**: 2 × Protein Balls ([recipe](recipes/treats/peanut-butter-balls.md))
-- **Snack / Breakfast**: Peanut Butter Greek Yogurt Bowl (single serving, user-constructed) — macros as provided
-- **Dinner**: Ground Beef Bowl + Greek Yogurt Lime Sauce — 200 g cooked ground beef + veggies + 70 g steamed sweet potato + 3.3 oz yogurt sauce
+Category: Daily Log
+Tags: flexible | high-protein | takeout | steak | eggs
 
-**Daily totals:** *(computed using recipe-derived per-ball macros: 2 × 5.8 g protein, 2 × 3.8 g carbs, 2 × 1.1 g fat, 2 × 53 kcal)*
-- **Protein:** 118.6 g
-- **Carbs:** 85.6 g
-- **Fat:** 38.0 g
-- **Calories:** 1135 kcal
+**Items:**
+- Domino’s Pizza — 2 slices (Buffalo Chicken + Pepperoni)
+- New York Strip Steak — 14.5 oz raw weight (≈ 10.5–11 oz cooked)
+- Eggs — 5 large, sunny-side up (nonstick)
 
-**Notes:** Totals computed from provided item macros and recipe-derived per-ball values for the protein balls. If you prefer different rounding or assumptions, I can update them.
+**Daily totals (estimated):**
+- **Calories:** 1,650 kcal
+- **Protein:** 120 g
+- **Carbs:** 68 g
+- **Fat:** 95 g
+
+**Notes:**
+- Pizza macros estimated using Domino’s published nutrition data.
+- Steak macros based on standard NY strip assumptions (raw-to-cooked conversion applied).
+- Eggs cooked on nonstick with no added fat.
+- Higher fat day; protein target met.
+
+
+---
+
+## 2026-01-21 (Wednesday) ✅
+- **Breakfast / Eggs**: Eggs — 5 large, sunny-side up (nonstick) — Macros: Protein 31.5 g | Carbs 2 g | Fat 24 g | Calories: 360 kcal
+- **Dinner / Takeout**: Domino's Pizza — Mixed Slices (2 slices: 1 Buffalo Chicken, 1 Pepperoni)
+- **Dinner / Core**: Steak — New York Strip — 14.5 oz raw weight (≈ 10.5–11 oz cooked) — Macros: Protein 60 g | Carbs 0 g | Fat 42 g | Calories: 650 kcal
+
+**Daily totals:**
+- **Protein:** 121.5 g
+- **Carbs:** 68 g
+- **Fat:** 94 g
+- **Calories:** 1660 kcal
+
+**Notes:**
+- Buffalo Chicken slice ≈ 350 kcal
+- Pepperoni slice ≈ 300 kcal
+- Macros are estimated based on Domino's published nutrition data and typical slice size.
+- Logged as a single combined entry for simplicity.
+- Steak assumptions: standard New York strip (not extra-trimmed); raw-to-cooked weight estimated at ~72–75%; macros based on typical USDA values (actual fat/calories may vary by trim and cooking).
+
+---
+
+## 2026-01-22 (Thursday) ✅
+Category: Flexible / Takeout
+Tags: flexible | high-protein | takeout | bowl | feta
+
+**Items:**
+- CAVA — ½ bowl + feta dip & chips (Half standard protein bowl + full portion of feta dip & chips)
+
+**Daily totals (estimated):**
+- **Calories:** 525–575 kcal
+- **Protein:** 28–38 g
+- **Carbs:** 28–35 g
+- **Fat:** 29–32 g
+
+**Notes:**
+- Half-bowl portion includes protein (chicken or chicken + steak), greens, and light sauce.
+- Feta dip + chips added as planned indulgence.
+- Macros are estimates.
 
 ---
 
@@ -55,7 +103,9 @@
 - Macro totals:
   - **2026-01-18:** Protein 110.4 g | Carbs 76.4 g | Fat 24.8 g | Calories 1107 kcal
   - **2026-01-19:** Protein 75.8–80.8 g | Carbs 37.8 g | Fat 43.1–48.1 g | Calories 892–917 kcal
-  - **2026-01-20:** Protein 118.6 g | Carbs 85.6 g | Fat 38.0 g | Calories 1135 kcal
+  - **2026-01-20:** Protein 120 g | Carbs 68 g | Fat 95 g | Calories 1650 kcal
+  - **2026-01-21:** Protein 121.5 g | Carbs 68 g | Fat 94 g | Calories 1660 kcal
+  - **2026-01-22:** Protein 28–38 g | Carbs 28–35 g | Fat 29–32 g | Calories 525–575 kcal
 
 ---
 

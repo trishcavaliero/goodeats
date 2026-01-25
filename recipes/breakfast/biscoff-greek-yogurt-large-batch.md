@@ -11,7 +11,7 @@ Ingredients:
 - 3 Biscoff cookies, crumbled on top
 
 Macros per serving:
-Protein: 30 g | Carbs: 31 g | Fat: 4.5 g | Calories: 360 kcal
+Protein: 50 g | Carbs: 31 g | Fat: 4.5 g | Calories: 360 kcal
 
 Instructions:
 1. Mix Greek yogurt until smooth.

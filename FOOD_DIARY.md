@@ -84,20 +84,82 @@ Tags: flexible | high-protein | takeout | bowl | feta
 
 **Items:**
 - CAVA — ½ bowl + feta dip & chips (Half standard protein bowl + full portion of feta dip & chips)
+- Ground Beef + Sweet Potato — Dinner — 200 g cooked 95% lean ground beef + 100 g cooked sweet potato — Macros: Protein 48 g | Carbs 21 g | Fat 14 g | Calories: 420 kcal
 
 **Daily totals (estimated):**
-- **Calories:** 525–575 kcal
-- **Protein:** 28–38 g
-- **Carbs:** 28–35 g
-- **Fat:** 29–32 g
+- **Calories:** 945–995 kcal
+- **Protein:** 76–86 g
+- **Carbs:** 49–56 g
+- **Fat:** 43–46 g
 
 **Notes:**
 - Half-bowl portion includes protein (chicken or chicken + steak), greens, and light sauce.
 - Feta dip + chips added as planned indulgence.
+- Ground beef is 95% lean (cooked weight used); sweet potato is steamed/cooked.
 - Macros are estimates.
 
 ---
 
+## 2026-01-23 (Friday) ✅
+Category: Breakfast / Snack
+Tags: high-protein | quick | meal-prep | sweet-treat | biscoff
+
+**Items:**
+- Biscoff Greek Yogurt (Large Batch) — 1 serving (8 oz yogurt + 3 Biscoff cookies) — Macros: Protein 50 g | Carbs 31 g | Fat 4.5 g | Calories: 360 kcal
+
+**Daily totals (estimated):**
+- **Calories:** 360 kcal
+- **Protein:** 50 g
+- **Carbs:** 31 g
+- **Fat:** 4.5 g
+
+**Notes:** Large-batch serving with 3 cookies; matches recipe `recipes/breakfast/biscoff-greek-yogurt-large-batch.md`.
+
+---
+## 2026-01-24 (Saturday) ✅
+Category: Daily Log
+Tags: flexible | high-protein | cut
+
+## Meals & Items
+
+### Breakfast / Midday
+- **Tiramisu Greek Yogurt (small)**
+  - 4 oz Fage 0% plain Greek yogurt  
+  - Vanilla protein powder  
+  - Coffee + cocoa flavoring  
+
+- **Pink Pineapple**
+  - ~150 g  
+
+- **Greek Yogurt + Chips**
+  - 6 oz Fage 0% plain Greek yogurt  
+  - Chips (unspecified amount)
+
+### Dinner
+- **In-N-Out Double-Double**
+  - Protein style (lettuce wrap)  
+  - Grilled onions  
+  - Mustard instead of spread  
+
+- **Diet Lemonade**
+
+---
+
+## Macro Summary (Estimated)
+- **Calories:** ~1,000–1,100 kcal  
+- **Protein:** ~90–105 g  
+- **Carbs:** ~60–75 g  
+- **Fat:** ~30–40 g
+
+---
+
+## Notes
+- Protein-forward dinner balanced a lighter daytime intake
+- Calories remained in a deficit range
+- Fat intake concentrated at dinner
+- Fits weekly cut pattern (lighter day)
+
+---
 ## Quick tallies
 - Peanut butter balls: **Jan 18** = 3, **Jan 19** = 1, **Jan 20** = 2
 - Macro totals:
@@ -105,7 +167,9 @@ Tags: flexible | high-protein | takeout | bowl | feta
   - **2026-01-19:** Protein 75.8–80.8 g | Carbs 37.8 g | Fat 43.1–48.1 g | Calories 892–917 kcal
   - **2026-01-20:** Protein 120 g | Carbs 68 g | Fat 95 g | Calories 1650 kcal
   - **2026-01-21:** Protein 121.5 g | Carbs 68 g | Fat 94 g | Calories 1660 kcal
-  - **2026-01-22:** Protein 28–38 g | Carbs 28–35 g | Fat 29–32 g | Calories 525–575 kcal
+  - **2026-01-22:** Protein 76–86 g | Carbs 49–56 g | Fat 43–46 g | Calories 945–995 kcal
+  - **2026-01-23:** Protein 50 g | Carbs 31 g | Fat 4.5 g | Calories 360 kcal
+  - **2026-01-24:** Protein 90–105 g | Carbs 60–75 g | Fat 30–40 g | Calories 1000–1100 kcal
 
 ---
 
